@@ -406,7 +406,7 @@ img {
 .social-soc-list {
   display: flex;
   justify-content: center;
-  gap: 24px;
+  gap: 16px;
 }
 .social-soc-item {
   width: 40px;
